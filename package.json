@@ -1,0 +1,18 @@
+{
+  "name": "new-avatar-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "grammy": "^1.32.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
